@@ -1,5 +1,4 @@
-body {background-color: #EEEEEE
-}
+
 #container{ background-color: #EEE;
             color:black;
             font: arial;
@@ -9,4 +8,8 @@ body {background-color: #EEEEEE
 #header{
   text-align: center;
   font-family: cambria, arial, calibria;
+}
+
+#content{
+            
 }
