@@ -2,7 +2,7 @@
 #container{ background-color: #EEE;
             color:black;
             font: arial;
-            
+            padding: 10px;
 }
 
 #dates {text align: right;
@@ -10,11 +10,16 @@
 }
 
 #header{
+            height:50px;
+            Width:98%
+                    
   text-align: center;
   font-family: cambria, arial, calibria;
             font-type: bold;
 }
 
-#content{
+#content{ height:580px
+            width:98%;
+            padding:10px;
             
 }
