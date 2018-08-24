@@ -10,7 +10,7 @@
 }
 
 #header{
-            height:50px;
+            height:100px;
             Width:98%
                     
   text-align: center;
@@ -18,7 +18,7 @@
             font-type: bold;
 }
 
-#content{ height:580px
+#content{ height:500px
             width:98%;
             padding:10px;
             
