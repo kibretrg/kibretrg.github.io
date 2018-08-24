@@ -2,7 +2,9 @@
 
 body {background-color: #EEEEEE
 }
-#container{
+#container{ background-color: #EEE;
+            color:black;
+            font: arial;
   
 }
 
