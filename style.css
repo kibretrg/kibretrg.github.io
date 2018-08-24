@@ -2,12 +2,17 @@
 #container{ background-color: #EEE;
             color:black;
             font: arial;
+            
+}
+
+#dates {text align: right;
   
 }
 
 #header{
   text-align: center;
   font-family: cambria, arial, calibria;
+            font-type: bold;
 }
 
 #content{
