@@ -1,13 +1,8 @@
 
-#container{ 
-            background-color: #gray;
-            margin: 10px
-            color:black;
-            font: arial;
-            padding: 10px;
+body{
+            background:gray;
 }
 
-#dates {text align: right;
   
 }
 
