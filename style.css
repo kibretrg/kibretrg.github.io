@@ -12,12 +12,13 @@ body{
 
 #header{
             height:50px;
+            width: 100px
             float:left;
             font-family: cambria, arial, calibria;
             font-weight: bold;
 }
 
-#header img{
+#container img{
     float: right;
     height:100px
         width: 100px
