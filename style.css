@@ -1,5 +1,7 @@
 
-#container{ background-color: #EEE;
+#container{ 
+            background-color: #gray;
+            margin: 10px
             color:black;
             font: arial;
             padding: 10px;
@@ -10,7 +12,7 @@
 }
 
 #header{
-            height:100px;
+            height:50px;
             Width:98%
                     
   text-align: center;
