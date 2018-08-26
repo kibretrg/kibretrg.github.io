@@ -2,10 +2,9 @@
 body{
             background:gray;
             height:700px
-  
             margin-left: auto;
             margin-right: auto;
-                
+            font-family: helvetica, arial, sans-serif;
 }
 
   
@@ -25,6 +24,9 @@ body{
             
 }
 
+#content{
+            clear: both;           
+}
 #footer{
     
 }
