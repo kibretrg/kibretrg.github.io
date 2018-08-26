@@ -1,6 +1,11 @@
 
 body{
             background:gray;
+            height:700px
+  
+            margin-left: auto;
+            margin-right: auto;
+                
 }
 
   
@@ -8,15 +13,18 @@ body{
 
 #header{
             height:50px;
-            Width:98%
-                    
-  text-align: center;
-  font-family: cambria, arial, calibria;
-            font-type: bold;
+            float:left;
+            font-family: cambria, arial, calibria;
+            font-weight: bold;
 }
 
-#content{ height:500px
-            width:98%;
-            padding:30px 10px 10px 10px;
+#header img{
+    float: right;
+    height:100px
+        width: 100px
             
+}
+
+#footer{
+    
 }
