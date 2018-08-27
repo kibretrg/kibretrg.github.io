@@ -12,21 +12,22 @@ body{
 
 #header{
             height:100px;
-            width: 100px
+            width: 60%
             float:left;
             font-family: cambria, arial, calibria;
             font-weight: bold;
             padding-top: 30px
+            text-align: center;
 }
 
-#container img{
+img{
     float: right;
     height:50px
-        width: 50px
+        width: 40%
 }
 
 #content{
-            clear: header;  
+            clear: all;  
             height:600px
             padding-top: 30px
 }
