@@ -16,18 +16,18 @@ body{
             float:left;
             font-family: cambria, arial, calibria;
             font-weight: bold;
-            padding-top: 30px
+            padding: 30px;
             text-align: center;
 }
 
 img{
     float: right;
     height:50px
-        width: 40%
+    width: 40%
 }
 
 #content{
-            clear: all;  
+            clear: both;  
             height:600px
-            padding-top: 30px
+            padding: 30px;
 }
