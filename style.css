@@ -8,13 +8,10 @@ body{
             
 }
 
-  
-.font-weight{
-            font-weight="bold"
-}
+
 
 #header{
-            height:50px;
+            height:100px;
             width: 100px
             float:left;
             font-family: cambria, arial, calibria;
@@ -26,18 +23,8 @@ body{
     float: right;
     height:50px
         width: 50px
-            
-}
-
-.img{
-       float: right;
-        height:50px
-        width: 50px     
 }
 
 #content{
             clear: both;           
-}
-#footer{
-    
 }
