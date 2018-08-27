@@ -1,10 +1,11 @@
 
 body{
-            background:gray;
+            background:EEE;
             height:700px
             margin-left: auto;
             margin-right: auto;
             font-family: helvetica, arial, sans-serif;
+            
 }
 
   
@@ -16,13 +17,20 @@ body{
             float:left;
             font-family: cambria, arial, calibria;
             font-weight: bold;
+            padding: 30px 30px 30px 30px
 }
 
 #container img{
     float: right;
-    height:100px
-        width: 100px
+    height:50px
+        width: 50px
             
+}
+
+img{
+       float: right;
+        height:50px
+        width: 50px     
 }
 
 #content{
