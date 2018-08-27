@@ -9,6 +9,8 @@ body{
 }
 
   
+.font-weight{
+            font-weight="bold"
 }
 
 #header{
@@ -27,7 +29,7 @@ body{
             
 }
 
-img{
+.img{
        float: right;
         height:50px
         width: 50px     
