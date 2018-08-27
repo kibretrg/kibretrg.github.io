@@ -26,5 +26,6 @@ body{
 }
 
 #content{
-            clear: both;           
+            clear: both;  
+            height:600px
 }
